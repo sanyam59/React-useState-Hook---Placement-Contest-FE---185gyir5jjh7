@@ -5,8 +5,8 @@ import React, { useState } from 'react';
 export default function App() {
  //code here 
  consr App=()=>{
-  const[input,setInput]=useState(''};
-const[term,setTerm]=useState(''};
+  const[input,setInput]=useState("};
+const[term,setTerm]=useState("};
  const handleChange=(e)=>{
    setInput(e.target.value);
   }
